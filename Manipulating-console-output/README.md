@@ -1,0 +1,1 @@
+This is a c++ program generating a formatted report using various I/O manipulators. It simulate a simple data processing task where it reads data from variables, processes it, and displays it in a formatted manner

@@ -1,0 +1,1 @@
+This is a simple calculator program using c++, the user decide the sign to perfom and enter values to perfom the operation. I used a switch statemen to display the result and handled the division by 0
